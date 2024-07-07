@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Archipatel1264/Archipatel1264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Archi Patel, a full stack developer from  surat. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Capus Event Management system.
+- 🌱 I’m currently learning Machine learning & data science.
+- 💬 Ask me about web development,python,C.
+- 📫 How to reach me: archipatel9954@gmail.com.
+- 😄 Pronouns: Archi.
+- ⚡ Fun fact: I love Travallening.
+
+## Skills
+
+- Languages: C,HTML,JAVA,JAVASCRIPT,CSS,REACTJS,NODEJS,PHP,SQL.
+- Interests: Dancing,Travelling.
+
+
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on something cool! 😊
